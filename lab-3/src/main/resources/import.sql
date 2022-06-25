@@ -1,0 +1,5 @@
+--INSERT INTO Product (name,price,rating) VALUES('Laptop',2000.00,18.88);
+--INSERT INTO `user`  VALUES(NULL,'SmartPhone',1500.40,85.88,NULL,1);
+--INSERT INTO Product  VALUES(NULL,'SmartPhone',1500.40,85.88,NULL,1);
+--INSERT INTO category  VALUES(NULL,'SmartPhone',1500.40,85.88,NULL,NULL);
+----INSERT INTO Address VALUES(NULL, 'Domain Driven Design', 'DDD123', 'Eric Evans', 'Iowa',NULL );
